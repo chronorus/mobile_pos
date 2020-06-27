@@ -50,7 +50,6 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: <Widget>[
-              Text('test'),
               Image(
                 image: AssetImage('images/Rectangle 9.png'),
               ),
